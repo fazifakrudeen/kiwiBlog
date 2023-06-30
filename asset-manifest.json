@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kiwiBlog/static/css/main.5ae26365.css",
+    "main.js": "/kiwiBlog/static/js/main.e9184c85.js",
+    "index.html": "/kiwiBlog/index.html",
+    "main.5ae26365.css.map": "/kiwiBlog/static/css/main.5ae26365.css.map",
+    "main.e9184c85.js.map": "/kiwiBlog/static/js/main.e9184c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae26365.css",
+    "static/js/main.e9184c85.js"
+  ]
+}
